@@ -98,7 +98,7 @@ p {
     text-align: center;
 }
 
-.perfil_foto p {
+.profision {
     font-size: 16px;
     color: rgb(56, 56, 56);
     text-align: center;
@@ -111,6 +111,13 @@ p {
     background-color: rgb(35, 123, 230);
 
     border-radius: 20px;
+}
+
+.eslogan {
+    font-size: 16px;
+    color: rgb(46, 46, 46);
+    padding-top: 10px;
+    font-style: italic;
 }
 
 
